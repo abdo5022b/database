@@ -11,7 +11,7 @@ else:
 	os.system("clear")
 print("welcome \033[1;35;40m")
 h = {
-"abderrahman" : "Name : Abderrahman \nF.name : Sakit \nAge :17 \nBirthday : 2003/ 12 / 05 "
+"abderrahman" : "Name : Abderrahman \nF.name : Sakit \nAge :?? \nBirthday :??/??/????  "
 } 
 f = str(input("print a name \033[1;32;40m  : "))
 #while input("print a \033[1;32;40m name : \033[0;37;40m") != h:
